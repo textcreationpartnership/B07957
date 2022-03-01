@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The araignement, and execution, of a wilfull and obstinate traitour,  named Eueralde Ducket, alias House; for high treason, on Friday, beeing the 28. of Iuly, and executed at Tisborne, on Monday after, being the 31, day of the same moneth. 1581. / gathered by M.S..</title>
+            <author>Munday, Anthony, 1553-1633.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1581</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07957</idno>
+            <idno type="STC">STC 18259.3</idno>
+            <idno type="STC">ESTC S94252</idno>
+            <idno type="EEBO-CITATION">72799725</idno>
+            <idno type="OCLC">ocm 72799725</idno>
+            <idno type="VID">184108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184108)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2228:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The araignement, and execution, of a wilfull and obstinate traitour,  named Eueralde Ducket, alias House; for high treason, on Friday, beeing the 28. of Iuly, and executed at Tisborne, on Monday after, being the 31, day of the same moneth. 1581. / gathered by M.S..</title>
+                  <author>Munday, Anthony, 1553-1633.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Charlewood, and Edward VVhite.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1581].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The initials M. S. are pseudonymous.  Written by Anthony Munday.  Cf. NLS.</note>
+                  <note>Imperfect: pages are stained, with print show-through.</note>
+                  <note>Printer's ornament on t.p., initials.</note>
+                  <note>Signatures: A⁸.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Haunce, Everard, 1581 --  Trials, litigation, etc.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:184108:1" rendition="simple:additions"/>
+            <p>
+               <add>
+                  <figure>
+                     <figDesc>blazon of the Earl of Pembroke</figDesc>
+                  </figure>
+               </add>
+            </p>
+            <p>
+               <pb facs="tcp:184108:1" rendition="simple:additions"/>
+               <add>W<hi rend="sup">m</hi>. Herbert.</add>
+            </p>
+            <p>
+               <add>April, 1773</add>
+            </p>
+         </div>
+         <div type="modern_library_stamp">
+            <pb facs="tcp:184108:2"/>
+            <p>
+               <add>Ex Libris Bibliothecae Facultatis Iuridicae Edinburgi<lb/> 1812</add>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:184108:2" rendition="simple:additions"/>
+            <pb facs="tcp:184108:3"/>
+            <pb facs="tcp:184108:3" rendition="simple:additions"/>
+            <p>The Araignement, and Execution, of a wilfull and obſtinate Traitour, named <hi>Eueralde Ducket,</hi> alias <hi>Hauns:</hi> Condemned at the Seſsions houſe, for high Treaſon, on Friday, beeing the 28. of Iuly, and executed at Ti<g ref="char:EOLhyphen"/>borne, on Monday after, being the 31. day of the ſame Moneth. 1581.</p>
+            <p>Gathered by M. S.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Imprinted at London by Iohn Charlewood, and <hi>Edward VVhite,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184108:4"/>
+            <pb facs="tcp:184108:4" rendition="simple:additions"/>
+            <head>¶ <hi>The Araignement of</hi> an obſtinate Traitour, na<g ref="char:EOLhyphen"/>med Euerald Ducket, <hi>alias</hi> Hauns, at the Seſsions houſe, on Fryday, <hi>the xxviii. of</hi> Iuly. <hi>1581.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon Friday, be<g ref="char:EOLhyphen"/>ing the eight and twentie day of <hi>Iuly,</hi> there was brought to the Seſſions houſe, to be a<g ref="char:EOLhyphen"/>raigned before the Queenes Maieſties Iuſtices, one <hi>Euerald Ducket, <hi>alias</hi> Hauns,</hi> Engliſhman, beeing a Preeſt, and not long ſince, come from beyond the Seas. This wicked fellow, con<g ref="char:EOLhyphen"/>trary bothe to the feare of God, and dutie, which he ſhould by right beare, to our moſte grati<g ref="char:EOLhyphen"/>ous Queene <hi>Elizabeth:</hi> erred from the true &amp; perfect doctrine of the word of God, and liued in
+<pb facs="tcp:184108:5"/>obſcure and Sathanicall deter<g ref="char:EOLhyphen"/>mination of life, as his owne proteſtations hath ſufficientlye made apparant, and the obſti<g ref="char:EOLhyphen"/>nate liues of the reſt of like ſect, giueth daily example. He hauing receiued the orders of Preeſt<g ref="char:EOLhyphen"/>hood at <hi>Rheimes</hi> in <hi>Fraunce,</hi> a place, where (the more is the pit<g ref="char:EOLhyphen"/>tie) diuers and many younge youthes of England, are ſome<g ref="char:EOLhyphen"/>what fed vpon the <hi>Popes</hi> penti<g ref="char:EOLhyphen"/>on, who maintaineth there a Seminarie, to allure and entiſe the hartes of ſundry her Maie<g ref="char:EOLhyphen"/>ſties obedient Subiects Chil<g ref="char:EOLhyphen"/>dren, to come vnto that place, where in ſteede of learning, they are inſtructed to diſhonor God, to diſobey their Prince, and to ſell their ſoules wilfully, into the deteſtable ſlauery, of that blaſ<g ref="char:EOLhyphen"/>phemous Antechriſtian Pre<g ref="char:EOLhyphen"/>late
+<pb facs="tcp:184108:5"/>From this aforeſayd place came this obſtinate fellow, and beeing brought before the Iuſti<g ref="char:EOLhyphen"/>ces to his aunſwer, of certaine abſurd and diueliſh Articles by himſelfe mainetayned, which are theſe enſuing.</p>
+            <p n="1">
+               <hi>1. That no Prince in all <hi>Europe,</hi> ought to haue any ſuprema<g ref="char:EOLhyphen"/>cie, but the <hi>Pope</hi> onely.</hi>
+            </p>
+            <p n="2">
+               <hi>2. That the <hi>Pope</hi> was indued with the holy Spirit, and ther<g ref="char:EOLhyphen"/>fore he could not ſinne.</hi>
+            </p>
+            <p>Albeit a terror to any Chriſtian hart to heare it, and a diueliſh obſtinacie in himſelfe to pro<g ref="char:EOLhyphen"/>nou<g ref="char:cmbAbbrStroke">̄</g>ce it, yet he traiterouſly ſaid.</p>
+            <p n="3">
+               <hi>3. That our moſte gratious So<g ref="char:EOLhyphen"/>ueraigne Lady, Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> was an Heretique, and therefore not woorthy of any gouernment.</hi>
+            </p>
+            <p n="4">
+               <pb facs="tcp:184108:6"/>
+               <hi>4. And that the <hi>Pope</hi> hath as great ſway and authoritie in this Realme of <hi>England,</hi> at this day, as he had a hundred yeeres agoe.</hi>
+            </p>
+            <p>With other ſuch like wicked and abhominable arguments that he maintayned, and beeing there examined of them: he be<g ref="char:EOLhyphen"/>gan with this proteſtation. The <hi>Popes</hi> holyneſſe. At which, not onely the Honorable Bench, but alſo all that ſtood by, entred into a great laughter: which cauſed him to breake of the graue diſcourſe, that els they ſhould haue heard. Then was he demau<g ref="char:cmbAbbrStroke">̄</g>ded of the former Arti<g ref="char:EOLhyphen"/>cles, to which he aunſwered. What I haue ſayd, I haue ſayd, and will ſtand to, vſing himſelfe very fond and full of deriſion, e<g ref="char:EOLhyphen"/>uen
+<pb facs="tcp:184108:6"/>like all of that ſort, whom God hath giuen ouer into a re<g ref="char:EOLhyphen"/>probate ſence.</p>
+            <p>After diuers queſtions by the Benche, and aunſwers of him<g ref="char:EOLhyphen"/>ſelfe, not heere to be ſpoken of: The Queſt of twelue men was panneled vpon him, whom he was willed to ſee, if he would challenge any of the<g ref="char:cmbAbbrStroke">̄</g>. No (quoth he) there is ſome indifferent men among them, or els it goes hard. So he ſtill troubling the Benche with ouer many words, as concerning how many ſoules he had ſaued ſynce his comming ouer, and what good hee had doone in his commaunded la<g ref="char:EOLhyphen"/>bour: That the Benche com<g ref="char:EOLhyphen"/>maunded him to ſilence, vntill the Queſt were come to giue vp theyr verdict. Who beeing come, and finding him guiltie, for that
+<pb facs="tcp:184108:7"/>before he had put himſelfe to God and the Countrey: he was demaunded what he could ſay for himſelfe, that iudgement ſhould not proceede vpon him? He frumpingly aunſwered, you haue put me to ſilence, and now I will ſay nothing. Then the Benche commaunded him to holde vp his hand, and he held vp his left hand. Why quoth the Iuſtices, is this your Roomiſh order? then he held vp the other, and ſcoffingly ſayd. Now Sir, I pray you, is not one hand as good as y<hi rend="sup">e</hi> other for you? At le<g ref="char:cmbAbbrStroke">̄</g>gth ere iudgement was pronounced, the Benche rehearſed vnto him, how <hi>B. Stephan Gardener</hi> reca<g ref="char:cmbAbbrStroke">̄</g>ted. He aunſwered, the greater was his ſinne. Then they ſayd, how <hi>Cardinall Poole</hi> recanted, the greater was his ſinne (quoth he
+<pb facs="tcp:184108:7"/>againe) <hi>Iohn Nichols</hi> (quoth the Bench) the other day recan<g ref="char:EOLhyphen"/>ted from his great impietie of life: he aunſwered, the more his ſynne, and greater his paines in the world to come. At laſt they told him, how the Papiſts great God Biſhop <hi>Bonner,</hi> recanted at his death. That is not ſo (quoth he) for he neuer recanted. After many horrible ſpeeches by him paſſed, and by the Honorable Benche aunſwered: Iudgement of high Treaſon proceeded vp<g ref="char:EOLhyphen"/>on him, to be drawne, hanged and quartered. He aunſwered them againe, though you haue condemned me of Treaſon, yet doo I know that I am voyde of ſinne in this. So was he cary<g ref="char:EOLhyphen"/>ed from thence to Newgate, where Maiſter <hi>Crowley</hi> a god<g ref="char:EOLhyphen"/>ly Father, remained all the after<g ref="char:EOLhyphen"/>noone
+<pb facs="tcp:184108:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:184108:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:184108:9"/>with him in conference of the Scriptures, and found him altogether vnlearned, not able to anſwer any thing directly, but meruaylous obſtinate and very impious.</p>
+            <p>ON Monday being the <hi>31.</hi> of <hi>Iuly,</hi> he was brought to Ti<g ref="char:EOLhyphen"/>borne the appointed place of Ex<g ref="char:EOLhyphen"/>ecution, being drawen from the priſon of Newgate, vpon a hur<g ref="char:EOLhyphen"/>dle, and godly Preachers all the way exhorting him, but no ſigne or motion of repentaunce might be perceiued in him. Beeing come to Tiborne, there was a Priſoner executed before him, who had otherwiſe treſpaſſed, and he very mildely and peni<g ref="char:EOLhyphen"/>tently tooke his death, praying zealouſly that God would turne the hart of this peruerſe wretch, and ſo with ſundry godly pray<g ref="char:EOLhyphen"/>ers,
+<pb facs="tcp:184108:9"/>ended his life. Then was this <hi>Ducket</hi> brought vp into the Cart, where were with him, Maiſter <hi>Shakelton,</hi> Maiſter <hi>Fi<g ref="char:EOLhyphen"/>dens,</hi> &amp; other godly Preachers, ſtill exhorting him: who after y<hi rend="sup">e</hi> noyſe of people was ſome what appeaſed (which was no ſmall company) he began in this man<g ref="char:EOLhyphen"/>ner. I am brought hether this day to confeſſe my fault, belee<g ref="char:EOLhyphen"/>uing and aſſuring my ſelfe in the death of Chriſte, who ſhed his blood for the Catholique church, whereof I am a member, and hope therein to be ſaued: for the Catholique Church, is and hath beene, from the beginning of the worlde vnto this day, the true prefiguration of Chriſte: And whereas theſe Miniſters (ſpea<g ref="char:EOLhyphen"/>king in deriſion) haue proteſted that I ſayd, Treaſon is no ſinne:
+<pb facs="tcp:184108:10"/>I beſeech you all y<hi rend="sup">t</hi> are heere, be witneſſes with me (for theſe are the laſt woords, y<hi rend="sup">t</hi> I ſhall ſpeake) that I ſayd not ſo. Theſe were my woords, that this which you call treaſon, &amp; that for which I here die to day, is no ſin before God, though you pleaſe to terme it ſo. And I beſeech all Catholi<g ref="char:EOLhyphen"/>ques that are preſent heere to pray for me. The godly Prea<g ref="char:EOLhyphen"/>cher aunſwered, if there be any heere, I truſt the number is very ſmall, or none at all, quoth he, in time I truſt the number will be increaſed. For through y<hi rend="sup">e</hi> Catho<g ref="char:EOLhyphen"/>lique Church is the way to ſal<g ref="char:EOLhyphen"/>uation, and the <hi>Popes</hi> holines is the head of that Church. Then he keeping cloſe his eyes, as though he were in his prayers, the Preachers rehearſed vnto him the Lords praier, quoth he,
+<pb facs="tcp:184108:10"/>vayne woords, away with the rauening wolues. Maiſter Sherife <hi>Woodcoke,</hi> then bad him aſke the Queene forgiue<g ref="char:EOLhyphen"/>nes, whom he had offended, and all the preſent company. Quoth he, it is needles, I am a Subiect, and I graunt my ſelfe to be a Subiect. Why (quoth Maiſter Sherife) ſhe is ſupreme head of y<hi rend="sup">e</hi> Church, therfore y<hi rend="sup">u</hi> oughteſt to ſubmit thy ſelfe to her. Not ſo (<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> he) ſhe is a woman, and ſhe may not, neither can not ſpeake in the Church, and therfore ought not to bear any authority in it. With that, their godly eares not abi<g ref="char:EOLhyphen"/>ding to hear theſe blaſphemous wordes: drew away the Cart, &amp; let him hang ſca<g ref="char:cmbAbbrStroke">̄</g>t two turnes, but cut him downe, to abide the farder paynes, appointed for him,</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:184108:11"/>
+            <head>To the Chriſtian Rea<g ref="char:EOLhyphen"/>der, <hi>true obedient dutie,</hi> bothe to God and Prince, <hi>continually wished.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>F our hartes were not</hi> har<g ref="char:EOLhyphen"/>dened, &amp; our ſences dul<g ref="char:EOLhyphen"/>led, with ouer much care of the world, and no re<g ref="char:EOLhyphen"/>ſpect to our obedient dutie: wee might perceiue the great mercy &amp; looue of our God, and the too little regard that we make of it. For let vs but argue vpon the dayly &amp; pre<g ref="char:EOLhyphen"/>ſe<g ref="char:cmbAbbrStroke">̄</g>t examples, as the care he hath to his Church, the milde fauour he beareth to his people that put their truſt in him, that although Satan ſeeke to builde a banke about it: yet ariſeth the Lord and ſayth, <hi>Iuſtice is mine.</hi> How hath God looued vs, in ſending vs ſuch a gratious Prin<g ref="char:EOLhyphen"/>ceſſe, ſuch a peaceable tranquillitie,
+<pb facs="tcp:184108:11"/>ſuch a happy light of his Goſpell? And when Antichriſte hath ſpread abroad his Champions, and euen throwne out his fiery Dartes of his diuelliſh inuentions: yet hath the Lord ſtept betwene them &amp; home, and cauſed their ſhame to redound in their owne faces, that when they haue gon ſo far foorth, as they haue boaſtingly ſayd: <hi>VVe will preuaile,</hi> the Lord hath ſtood vp in the mid<g ref="char:EOLhyphen"/>deſt of his Congregation, &amp; ſayd: <hi>I will defend my choſen.</hi> And yet to beholde, how ſmal accou<g ref="char:cmbAbbrStroke">̄</g>t we make of it, how ſlenderly we regarde it, &amp; how vnnaturally we run fro<g ref="char:cmbAbbrStroke">̄</g> him: might mooue vs, if we had any grace or feare in our ſelues, to re<g ref="char:EOLhyphen"/>turne with pierced harts, &amp; ſobbing conſciences, and euen out of the bowels of our ſoules to crie: <hi>O Lord haue mercy vpon vs, miſerable offen<g ref="char:EOLhyphen"/>ders.</hi> That we faithfully and vnfai<g ref="char:EOLhyphen"/>nedly
+<pb facs="tcp:184108:12"/>may do this: let vs euery one heaue our harts and handes to the Lord, &amp; be inwardly intirely ſory, for our ſo manifolde offences, and praye that long may his Goſpell ſhine among vs, long maye our moſte Gratious Queene gouerne vs, &amp; long may we faithfully ſerue him, truely and obediently honour and looue her. And all that doo re<g ref="char:EOLhyphen"/>pine at her gratious continuance: may eyther chaunge their mindes, or be ſpeedily cut off. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <hi>GOd preſerue and bleſſe our moste gratious Queene</hi> Elizabeth, <hi>and encreaſe the number of true and faith<g ref="char:EOLhyphen"/>full Subiects.</hi> Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184108:12"/>
+            <pb facs="tcp:184108:13"/>
+            <pb facs="tcp:184108:13"/>
+            <pb facs="tcp:184108:14"/>
+            <pb facs="tcp:184108:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
